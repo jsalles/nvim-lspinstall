@@ -29,6 +29,7 @@ local servers = {
   ["rome"] = require'lspinstall/servers/rome',
   ["ruby"] = require'lspinstall/servers/ruby',
   ["rust"] = require'lspinstall/servers/rust',
+  ["stylelint"] = require'lspinstall/servers/stylelint',
   ["svelte"] = require'lspinstall/servers/svelte',
   ["tailwindcss"] = require'lspinstall/servers/tailwindcss',
   ["terraform"] = require'lspinstall/servers/terraform',
