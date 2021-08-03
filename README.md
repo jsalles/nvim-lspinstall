@@ -86,6 +86,7 @@ end
 | python      | pyright-langserver                                                          |
 | ruby        | solargraph                                                                  |
 | rust        | rust-analyzer                                                               |
+| stylelint   | stylelint-lsp                                                               |
 | svelte      | svelte-language-server                                                      |
 | tailwindcss | tailwindcss-intellisense (pulled directly from the latest VSCode extension) |
 | terraform   | Terraform Language Server (terraform-ls)                                    |
